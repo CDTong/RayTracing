@@ -2,7 +2,7 @@
 
 
 
- [20.ppm](pics/20.ppm) 
+ ![20.ppm](pics/20.ppm) 
 
 
 Implementation of "Ray Tracing in One Weekend": 
